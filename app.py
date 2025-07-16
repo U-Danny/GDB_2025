@@ -233,7 +233,18 @@ app.layout = dbc.Container(
         ),
         html.Div(
             [
-                html.Span("© - 2025 UD.", style={"flex": "1", "textAlign": "left"}),
+                html.Span(
+                    [
+                        "© - 2025 ",
+                        html.A(
+                            "UD-Git.",
+                            href="https://github.com/U-Danny/GDB_2025",
+                            target="_blank",
+                            style={"color": "inherit", "textDecoration": "underline"},
+                        ),
+                    ],
+                    style={"flex": "1", "textAlign": "left"},
+                ),
                 html.Span(
                     "Global Data Barometer - Data Visualization Challenge 2025",
                     style={"flex": "1", "textAlign": "right"},
