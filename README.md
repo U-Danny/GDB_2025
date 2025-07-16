@@ -13,20 +13,21 @@ This project presents a visual and narrative analysis of the state of data in La
 - Relationship between digital access, corruption perception, and institutional development.
 - Summary of key findings and opportunities for the region.
 
-## Slide Structure
-
-1. Regional overview with score maps.
-2. Status by action areas shown in a heatmap.
-3. Comparison between institutional accessibility components and internet access.
-4. Relationship between corruption perception and institutional capacity for transparency.
-5. Final summary with findings and opportunities.
-
 ---
 
 ## Technologies
 
 - Visualization tools (Plotly, Dash).
 - Python for data processing and analysis.
+
+---
+
+## Functionalities
+
+- Interactive Slides Navigation
+- Light/Dark Theme Toggle
+- Download Data & Graphs
+- Fullscreen option
 
 ---
 
@@ -54,10 +55,6 @@ python app.py
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> <img src="image/slide_1.png" alt="Screenshot 1" width="50%" /> <img src="image/slide_2.png" alt="Screenshot 2" width="50%" /> <img src="image/slide_3.png" alt="Screenshot 3" width="50%" /> <img src="image/slide_4.png" alt="Screenshot 4" width="50%" />  </div>
 
 ---
-
-## Contributing
-
-### Contributions are welcome! Feel free to open issues or submit pull requests for improvements.
 
 License
 
