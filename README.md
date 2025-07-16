@@ -43,17 +43,22 @@ pip install -r requirements.txt
 # Run the application
 python app.py
 
+```
+
 ---
 
 ## Screenshots
+
 ### Below are some screenshots of the application interface:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> <img src="image/slide_1.png" alt="Screenshot 1" width="50%" /> <img src="image/slide_2.png" alt="Screenshot 2" width="50%" /> <img src="image/slide_3.png" alt="Screenshot 3" width="50%" /> <img src="image/slide_4.png" alt="Screenshot 4" width="50%" />  </div>
 
-----
+---
+
 ## Contributing
+
 ### Contributions are welcome! Feel free to open issues or submit pull requests for improvements.
 
- License
+License
+
 ### MIT License
-```
